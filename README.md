@@ -48,4 +48,4 @@ The correlation results in
 
 ![10](10.png)
 
-This means the average of a two person household is a standard car priced with 30k$ and an average annual income of 70k$.
+This means the average of a two person household is a standard car priced with 30k$ and an average annual income of 70k$..
